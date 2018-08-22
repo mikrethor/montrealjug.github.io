@@ -20,7 +20,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
     <ul class="slides">
       <li>
         <a href="https://www.kronos.ca/" title="Kronos" target="_blank">
-          <img src="c/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;">
+          <img src="{{ site.url }}/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;">
         </a>
         <p class="flex-caption">
           Kronos est le leader mondial en solutions de gestion des effectifs qui permettent aux organisations de contrôler les coûts de main-d’œuvre, de minimiser les risques associés à la non-conformité et d’améliorer la productivité.
