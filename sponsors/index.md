@@ -20,7 +20,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
     <ul class="slides">
       <li>
         <a href="https://www.kronos.ca/" title="Kronos" target="_blank">
-          <img src="/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;">
+          <img src="c/images/sponsors/kronos.jpg" width="400px" style="vertical-align: top;">
         </a>
         <p class="flex-caption">
           Kronos est le leader mondial en solutions de gestion des effectifs qui permettent aux organisations de contrôler les coûts de main-d’œuvre, de minimiser les risques associés à la non-conformité et d’améliorer la productivité.
@@ -32,7 +32,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
       </li>
       <li>
         <a href="http://logimethods.com/" title="Logimethods" target="_blank">
-          <img src="/images/sponsors/logimethods.jpg" width="400px" style="vertical-align: top;">
+          <img src="{{ site.url }}/images/sponsors/logimethods.jpg" width="400px" style="vertical-align: top;">
         </a>
         <p class="flex-caption">
           Logimethods accompagne ses clients dans l’adoption réussie des technologies informatiques requises pour la transformation numérique.
@@ -45,7 +45,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
       </li>
       <li>
         <a href="https://www.desjardins.com/fr/votre_caisse/accueil.jsp?transit=81520184" title="Caisse Desjardins de l'Administration et des Services publics" target="_blank">
-          <img src="/images/sponsors/desjardins.jpg" width="400px" style="vertical-align: top;">
+          <img src="{{ site.url }}/images/sponsors/desjardins.jpg" width="400px" style="vertical-align: top;">
         </a>
         <p class="flex-caption">
           La mission du mouvement Desjardins est de contribuer au mieux-être économique et social des personnes et des collectivités dans les limites compatibles de notre champ d'action:
@@ -65,7 +65,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
     <ul class="slides">
       <li>
         <a href="https://softwareag.com" title="Software AG" target="_blank">
-          <img src="/images/sponsors/sag.png" width="240px" style="vertical-align: top;">
+          <img src="{{ site.url }}/images/sponsors/sag.png" width="240px" style="vertical-align: top;">
         </a>
         <p>
         Software AG offre la première Digital Business Platform de bout en bout – basée sur des standards ouverts permettant l‘intégration, la gestion des processus, le développement d’applications adaptives, l’analytique en temps réel 
@@ -74,7 +74,7 @@ De notre part et de tous les enfants que vous rendez heureux, **merci**.
       </li>
       <li>
         <a href="http://www.gologic.ca/" title="Gologic" target="_blank">
-          <img src="/images/sponsors/gologic.png" >
+          <img src="{{ site.url }}/images/sponsors/gologic.png" >
         </a>
         <p class="flex-caption">
           Gologic fournit du services-conseils sur place afin de comprendre vos besoins, d’implémenter une solution et d’utiliser les outils du DevOps dans l’automatisation de vos processus.  Vous avez besoin de services-conseils en DevOps? Nous avons sûrement parmi nous votre DevOps. Nous cultivons et appliquons le DevOps depuis déjà plusieurs années et ce pour tout type d’industrie. Nos équipes multidisciplinaires aident votre équipe TI à accélérer la cadence de livraison.  Automatisons vos processus d’exploitation et implémentons une culture de collaboration ensemble pour laisser place à l’innovation.<br/>
